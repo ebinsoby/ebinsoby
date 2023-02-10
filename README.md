@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ebinsoby
 - 👀 I’m interested in Front-end Web Development
-- 🌱 I’m currently learning React and Django
-- 💞️ I’m looking to collaborate on React Projects
+- 🌱 I’m an expert in React and VueJS
+- 💞️ I’m looking to collaborate on React and VueJS Projects
 
