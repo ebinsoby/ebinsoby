@@ -1,5 +1,15 @@
-- 👋 Hi, I’m @ebinsoby
-- 👀 I’m interested in Front-end Web Development
-- 🌱 I’m an expert in ReactJS and VueJS
-- 💞️ I’m looking to collaborate on ReactJS and VueJS Projects
+# Ebin Soby
 
+Engineering systems that scale — from clean interfaces to distributed backends.
+
+Senior Software Engineer  
+M.S. Computer Science — Georgia Tech
+
+Interested in:
+- Systems design
+- Developer tooling
+- Protocols & networking
+- Secure architectures
+- Open-source infrastructure
+
+Currently contributing to open source and building production-grade tools.
