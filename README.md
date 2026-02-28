@@ -12,4 +12,4 @@ Interested in:
 - Secure architectures
 - Open-source infrastructure
 
-Currently contributing to open source and building production-grade tools.
+Currently started contributing to open source and building production-grade tools.
