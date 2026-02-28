@@ -3,7 +3,7 @@
 Engineering systems that scale — from clean interfaces to distributed backends.
 
 Senior Software Engineer  
-M.S. Computer Science — Georgia Tech
+M.S. Computer Science Candidate — Georgia Tech
 
 Interested in:
 - Systems design
